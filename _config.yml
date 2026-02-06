@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "S G."
+title                    : "SR G."
 title_separator          : "-"
 name                     : "S G."
 description              : "Researcher at Cisco"
