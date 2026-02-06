@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "S. G."
+title                    : "S G."
 title_separator          : "-"
 name                     : "S. G."
 description              : "Researcher at Cisco"
@@ -27,7 +27,7 @@ author:
   name             : "S G"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at Cisco"
-  location         : "San Francisco Bay Area"
+  location         : "San Jose Bay Area"
   employer         : "Cisco Systems"
   uri              : # URL
   email            : "none@example.org" 
