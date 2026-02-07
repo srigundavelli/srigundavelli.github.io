@@ -31,8 +31,9 @@ author:
   location         : "San Jose Bay Area"
   employer         : "Cisco Systems"
   uri              : # URL
-  email            : "sgundave@no-spam-cisco.com" 
-  
+  email            : "sgundave@no-spam-cisco.com"
+  strava           : "https://www.strava.com/"
+
 
   # Academic websites
   academia         : # URL
