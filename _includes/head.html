@@ -15,11 +15,3 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
-<script>
-  // Default to dark mode on first visit
-  const storedTheme = localStorage.getItem("theme");
-  if (!storedTheme) {
-    localStorage.setItem("theme", "dark");
-    document.documentElement.setAttribute("data-theme", "dark");
-  }
-</script>
