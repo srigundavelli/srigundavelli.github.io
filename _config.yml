@@ -32,6 +32,12 @@ author:
   employer         : "Cisco Systems"
   uri              : # URL
   email            : "sgundave@no-spam-cisco.com" 
+  
+links:
+    - label: "Strava"
+      icon: "fas fa-bicycle"
+      url: "https://www.strava.com/athletes/143803896"
+
 
   # Academic websites
   academia         : # URL
@@ -73,7 +79,6 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  strava           : https://www.strava.com/athletes/143803896
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
