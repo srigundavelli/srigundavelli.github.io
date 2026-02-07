@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-My expertise is in Wi-Fi and Cellular technologies, with a strong focus on enterprise wireless architectures. Currently, I am part of Cisco's Enterprise Wireless CTO team, contributing to innovation and strategy in the wireless domain. Beyond Cisco, I co-chair three working groups (in WBA, in WFA  and at IETF), driving wireless standards.
+I am a researcher at Cisco Systems working on enterprise wireless architecture and standards. I collaborate with teams across Cisco, IETF, Wireless Broadband Alliance, and the Wi-Fi Alliance on next generation wireless architectures.
 
-I have been fortunate to be granted more than 150 patents in mobile communications and to publish over 25 IETF RFC standards. I enjoy collaborating with others to drive innovation and for building a better internet.
+I am part of Cisco’s Enterprise Wireless CTO team, where I drive innovation, lead standards efforts, and influence product and technology strategy. I co chair working groups in the Wireless Broadband Alliance, the Wi-Fi Alliance, and the IETF, helping advance wireless standards and building a better Internet.
 
-My current mission is to enable Wi-Fi to support mission-critical services (E-911, National Security/Emergency Preparedness (NS/EP), and Public Warning Systems) to realize greater access to emergency services and save lives in critical situations. 
+I lead industry work on Wi-Fi Broadcast in both the Wi-Fi Alliance and the Wireless Broadband Alliance, including system architecture, use cases, and deployment models for broadcast delivery over Wi-Fi networks. 
 
-Outside of work, I enjoy long cycling rides.
+A major focus of my current work is enabling mission critical services over Wi-Fi. This includes emergency calling, National Security and Emergency Preparedness services, and Public Warning and Emergency Alerts. I drive the architecture and industry alignment for these capabilities within the Wireless Broadband Alliance and am working to shape policy direction to enable emergency calling over Wi-Fi using native device dialers and manufacturer installed emergency Passpoint profiles.
 
+I lead Wi-Fi and cellular convergence work in the Wireless Broadband Alliance, driving architecture to reduce handover latency between Wi-Fi and cellular through predictive vector roaming.
+
+I hold more than 175 patents in mobile and wireless communications and have authored or co-authored over 29 IETF RFCs. I hold a Master’s degree in Computer Engineering.
+
+Outside work, I enjoy long cycling rides.
