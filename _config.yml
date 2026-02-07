@@ -13,7 +13,7 @@ title                    : "S G."
 title_separator          : "-"
 name                     : "S. G."
 description              : "Researcher at Cisco"
-url                      : https://srigundavelli.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://srigundavelli.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/srigundavelli.github.io"
