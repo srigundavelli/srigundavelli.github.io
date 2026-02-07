@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Sri Gundavelli"
 title_separator          : "-"
 name                     : "Sri Gundavelli"
-description              : "Researcher at Cisco"
+description              : "Researcher at Cisco Systems"
 url                      : https://srigundavelli.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,11 +27,11 @@ author:
   avatar           : "Sri-Photo.png"
   name             : "Sri Gundavelli"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher at Cisco"
+  bio              : "Researcher at Cisco Systems"
   location         : "San Jose Bay Area"
   employer         : "Cisco Systems"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sgundave@no-spam-cisco.com" 
 
   # Academic websites
   academia         : # URL
