@@ -33,9 +33,9 @@ author:
   uri              : # URL
   email            : "sgundave@no-spam-cisco.com" 
   
-links:
+
       label: "Strava"
-      icon: "fas fa-bicycle"
+      icon: ""
       url: "https://www.strava.com/athletes/143803896"
 
 
