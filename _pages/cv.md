@@ -1,3 +1,7 @@
+published: false
+permalink: /cv-hidden/
+
+
 ---
 layout: archive
 title: "CV"
