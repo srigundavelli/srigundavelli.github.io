@@ -1,3 +1,15 @@
+
+---
+permalink: /
+title: "Sri Gundavelli"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+
 My expertise is in Wi-Fi and Cellular technologies, with a strong focus on enterprise wireless architectures. Currently, I am part of Cisco's Enterprise Wireless CTO team, contributing to innovation and strategy in the wireless domain. Beyond Cisco, I co-chair three working groups (in WBA, in WFA  and at IETF), driving wireless standards.
 
 I have been fortunate to be granted more than 150 patents in mobile communications and to publish over 25 IETF RFC standards. I enjoy collaborating with others to drive innovation and for building a better internet.
