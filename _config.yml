@@ -34,7 +34,7 @@ author:
   email            : "sgundave@no-spam-cisco.com" 
   
 links:
-    - label: "Strava"
+      label: "Strava"
       icon: "fas fa-bicycle"
       url: "https://www.strava.com/athletes/143803896"
 
