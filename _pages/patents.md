@@ -5,8 +5,8 @@ permalink: /patents/
 author_profile: true
 ---
 
-<img src="/images/hakone-shrine.jpg" alt="Patents" style="width:100%; max-width:700px; margin-bottom:20px
 
+<img src="/images/hakone-shrine.jpg" alt="Patents" style="width:100%; max-width:700px; margin-bottom:20px;">
 
 
 
