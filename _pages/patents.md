@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img src="/images/hakone-shrine.jpg" alt="Patents" style="width:100%; max-width:700px; margin-bottom:20px;">
+<img src="/images/hakone-shrine.jpg" alt="Patents" style="width:100%; height:25%; max-width:700px; display:block; margin:0 auto 20px auto;">
 
 
 
