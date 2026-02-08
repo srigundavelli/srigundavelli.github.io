@@ -15,7 +15,7 @@ I am currently leading industry work on Wi-Fi Broadcast in the Wi-Fi Alliance an
 
 One of my current goals is to enable mission critical services over Wi-Fi, including emergency calling, National Security and Emergency Preparedness services, and Public Warning and Emergency Alerts. I drive the architecture and industry alignment for these capabilities within the Wireless Broadband Alliance and am working to shape policy direction to support emergency calling over Wi-Fi using native device dialers and manufacturer-installed emergency Passpoint profiles. The objective is to deliver an experience consistent with emergency calling over cellular networks.
 
-I am also currently driving Wi-Fi and cellular convergence work in the Wireless Broadband Alliance, focused on reducing handover latency between Wi-Fi and cellular by using predictive handovers to avoid sticky client behavior through a network-assisted approach known as VectorRoaming.
+I am also driving Wi-Fi and cellular convergence work in the Wireless Broadband Alliance, focused on reducing handover-latency between Wi-Fi and cellular through predictive handovers that help avoid sticky client behavior using a network-assisted approach known as VectorRoaming.
 
 I hold more than 180 patents in mobile and wireless communications and have authored or co-authored over 29 IETF RFCs. I hold a Master’s degree in Computer Engineering.
 
