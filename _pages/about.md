@@ -13,7 +13,7 @@ I am part of Cisco’s Enterprise Wireless CTO team, where I drive innovation, l
 
 I am currently leading industry work on Wi-Fi Broadcast in the Wi-Fi Alliance and the Wireless Broadband Alliance, focused on system architecture, use cases, and deployment models for broadcast delivery over Wi-Fi networks.
 
-One of my current goals is to enable mission critical services over Wi-Fi, including emergency calling, National Security and Emergency Preparedness services, and Public Warning and Emergency Alerts. I drive the architecture and industry alignment for these capabilities within the Wireless Broadband Alliance and am working to shape policy direction to support emergency calling over Wi-Fi using native device dialers and manufacturer-installed emergency Passpoint profiles. delivering an experience consistent with emergency calling over cellular networks.
+One of my current goals is to enable mission critical services over Wi-Fi, including emergency calling, National Security and Emergency Preparedness services, and Public Warning and Emergency Alerts. I drive the architecture and industry alignment for these capabilities within the Wireless Broadband Alliance and am working to shape policy direction to support emergency calling over Wi-Fi using native device dialers and manufacturer-installed emergency Passpoint profiles. The objective is to deliver an experience consistent with emergency calling over cellular networks.
 
 I am also currently driving Wi-Fi and cellular convergence work in the Wireless Broadband Alliance, focused on reducing handover latency between Wi-Fi and cellular by using predictive handovers to avoid sticky client behavior through a network-assisted approach known as VectorRoaming.
 
