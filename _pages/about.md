@@ -17,6 +17,6 @@ A major focus of my current work is enabling mission critical services over Wi-F
 
 I also drive Wi-Fi and cellular convergence work in the Wireless Broadband Alliance, focused on reducing handover latency between Wi-Fi and cellular by using predictive handovers to avoid sticky client behavior through a network assisted approach also known as VectorRoaming.
 
-I hold more than 175 patents in mobile and wireless communications and have authored or co-authored over 29 IETF RFCs. I hold a Master’s degree in Computer Engineering.
+I hold more than 180 patents in mobile and wireless communications and have authored or co-authored over 29 IETF RFCs. I hold a Master’s degree in Computer Engineering.
 
 Outside work, I enjoy long cycling rides.
